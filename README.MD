@@ -9,6 +9,8 @@ I used the spike protein FASTA file from GISAID to collect sequences for analysi
 
 The two samples that have the longest branches are v5 and v7. V8 and v15 accumulated the most differences compared to the samples at the base of the tree.l EPI_ISL_1965497 (v15) and EPI_ISL_19654980 (v8) were collected one day after another in Iowa (01-01-2025 and 01-02-2025). EPI_ISL_19654244 (v5) and EPI_ISL_19654984 (v7) were collected from Kearney, Nebraska Kearney and Iowa, respectively. A group of 19 samples did not display large amounts of genetic differences, and many of this set were collected in Canada, only a few days apart from each other.
 
+The phylogenetic tree, as it is too large to be previewed, can be viewed [here](https://github.com/amesma/phylo_tree/blob/main/large_ape_tree.pdf).
+
 ## Discussion
 
 Although generation of a phylogenetic tree alone does not inform a specific evolutionary hypothesis, it offered an initial look into how, with more data, I could begin to construct a hypothesis on how Covid sequences and variants evolve, and understand how this disease spreads.
